@@ -5,7 +5,7 @@ namespace Vee.Feature
     {
         public EmptyClass()
         {
-            Console.Out.WriteLine("sddssds");
+            Console.Out.WriteLine("what is hello");
         }
     }
 }
